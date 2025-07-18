@@ -2,11 +2,12 @@ import random
 import datetime
 import requests
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
 # 🔗 Your Discord webhook URL here
-WEBHOOK_URL = "https://discord.com/api/webhooks/1395737603453747371/tcfllO7p9FBGKQdDgIfYnz76xqDbjuUCnNo3FpYQvgdwdVoZqj4PIekf1n2O8-a-MbUU"
+WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
 # Word list (kanji, kana, romaji, meaning)
 words = [
