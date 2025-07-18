@@ -4,6 +4,8 @@
 
 Sayuri Hayasaka is a soft-spoken, elegant Discord bot that sends you a daily Japanese word — complete with kana, romaji, meaning, and a whisper of motivation. Designed for those who wish to study Nihongo gently, one petal at a time.
 
+![Sayuri](assets/Sayuri.webp)
+
 ---
 
 ## 💖 What Sayuri Does
@@ -88,15 +90,7 @@ Feel free to add:
 
 Sayuri welcomes all gentle help\~ 💞
 
----
-
-## 📜 License
-
-MIT License — you're free to share, learn, and grow. Just don’t forget to say *ありがとう*, ne\~?
-
----
 
 > *“Little by little, petal by petal… you’ll bloom into fluency. Sayuri will be right here.”* 🌸
 
-```
 
